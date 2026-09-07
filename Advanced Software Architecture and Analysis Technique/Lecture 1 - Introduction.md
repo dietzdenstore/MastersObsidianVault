@@ -1,4 +1,4 @@
-
+![[Report and case.pdf]]
 # Formal Analysis and Refinement (FAR)
 
 In steps:

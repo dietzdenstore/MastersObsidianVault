@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scientific Methods/Lecture 1 - Introduction.md",
+                "file": "Advanced Software Architecture and Analysis Technique/Lecture 1 - Introduction.md",
                 "mode": "source",
                 "source": false
               },
@@ -204,12 +204,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cb12f77e00da87e6",
+  "active": "c451dc32a23a7258",
   "lastOpenFiles": [
+    "Material(s)/Software_Architecture_in_Practice.pdf",
+    "Advanced Software Architecture and Analysis Technique/Lecture 1 - Introduction.md",
+    "Report and case.pdf",
+    "Advanced Software Architecture and Analysis Technique/Excercises/Excercise 1 & 2.md",
+    "exercise_1.pdf",
+    "Material(s)",
+    "Advanced Software Architecture and Analysis Technique/Excercises",
+    "Scientific Methods/Lecture 1 - Introduction.md",
     "Scientific Methods/Materials",
     "Scientific Methods/Materials/Lecture 1-Course Intoduction.pdf",
-    "Scientific Methods/Lecture 1 - Introduction.md",
-    "Advanced Software Architecture and Analysis Technique/Lecture 1 - Introduction.md",
     "Scientific Methods",
     "README.md",
     "Advanced Software Architecture and Analysis Technique"
