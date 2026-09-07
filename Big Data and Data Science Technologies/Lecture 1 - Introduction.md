@@ -69,6 +69,3 @@ Big Data is defined in three Vs:
 ![[Pasted image 20260907142531.png]]
 ## Horizontal vs Vertical scaling
 ![[Pasted image 20260907142545.png]]
-## History of data centers
-(Indsæt udklip af slides hvor han gennemgår historien)
-	(Slutter ved Hadoop)
