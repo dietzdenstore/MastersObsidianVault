@@ -18,5 +18,4 @@ In steps:
 
 Although preferable, this example cannot be used on big architectures. Its better to divide & conquer, in order to focus on one thing only, and then using Model checking here.
 
-
 # Importance of software correctness
