@@ -10,7 +10,7 @@
 ![[Pasted image 20260907141655.png]]
 # The Apache Stack (Diagram)
 ![[Pasted image 20260907141731.png]]
-# **Production Metrics and Concepts**
+# **Production Metrics and Concepts** (Terms)
 
 ## SLA - Service Level Agreement
 The agreement you make with your clients or users
@@ -41,7 +41,7 @@ $$
 
 ## Non-functional Requirements
 - ### **Availability**
-	![[Pasted image 20260907142142.png]]
+
 - ### **Deployability**
 	![[Pasted image 20260907142216.png]]
 - Energy Efficiency

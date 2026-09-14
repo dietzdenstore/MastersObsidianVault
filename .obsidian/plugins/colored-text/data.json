@@ -16,7 +16,7 @@
     "#0070c0",
     "#00b050",
     "#ffc000",
-    "#ff0000"
+    "rgb(255, 0, 0)"
   ],
   "colorCellCount": "5",
   "hidePlugin": false

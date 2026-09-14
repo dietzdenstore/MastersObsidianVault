@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced Software Architecture and Analysis Technique/Lecture 2 - Arguments.md",
+                "file": "Big Data and Data Science Technologies/Lecture 2 - DFS and file formats.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 2 - Arguments"
+              "title": "Lecture 2 - DFS and file formats"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386.39585876464844
+    "width": 324.1736297607422
   },
   "right": {
     "id": "cd0ce0e59e511ee8",
@@ -191,32 +191,34 @@
   },
   "active": "5494035c1728c496",
   "lastOpenFiles": [
-    "Advanced Software Architecture and Analysis Technique/Lecture 1 - Introduction.md",
-    "Advanced Software Architecture and Analysis Technique/Lecture 2 - Arguments.md",
-    "Advanced Software Engineering Methodology/Lecture 2 - Startup Strategies.md",
-    "Advanced Software Engineering Methodology/Materials/Pasted image 20260908095250.png",
-    "Advanced Software Engineering Methodology/Lecture 1 - Introduction.md",
-    "Advanced Software Engineering Methodology/Materials/Pasted image 20260908090638.png",
-    "Advanced Software Engineering Methodology/Materials/Pasted image 20260908094717.png",
-    "Advanced Software Engineering Methodology/Materials/Pasted image 20260908082035.png",
-    "Pasted image 20260908090606.png",
-    "Advanced Software Engineering Methodology/Materials",
-    "Advanced Software Engineering Methodology/Materials/Pasted image 20260908082549.png",
-    "Advanced Software Engineering Methodology/Materials/Pasted image 20260908084606.png",
-    "Advanced Software Engineering Methodology/Materials/Pasted image 20260908084336.png",
-    "Advanced Software Engineering Methodology/Materials/Pasted image 20260908083204.png",
-    "Advanced Software Engineering Methodology/Materials/Pasted image 20260908083157.png",
+    "Pasted image 20260914133340.png",
+    "Pasted image 20260914133332.png",
+    "Pasted image 20260914133330.png",
+    "Pasted image 20260914133328.png",
+    "Pasted image 20260914132739.png",
+    "Pasted image 20260914132503.png",
+    "Pasted image 20260914132243.png",
+    "Big Data and Data Science Technologies/Lecture 2 - DFS and file formats.md",
+    "Pasted image 20260914132326.png",
+    "Pasted image 20260914132301.png",
+    "Big Data and Data Science Technologies/Materials/Pasted image 20260914124736.png",
+    "Big Data and Data Science Technologies/Materials/Pasted image 20260914130416.png",
     "Big Data and Data Science Technologies/Lecture 1 - Introduction.md",
+    "Advanced Software Architecture and Analysis Technique/Lecture 2 - Arguments & Recap.md",
+    "Books/Software_Architecture_in_Practice.pdf",
+    "Advanced Software Architecture and Analysis Technique/Lecture 1 - Introduction.md",
+    "Advanced Software Architecture and Analysis Technique/Report and case.pdf",
+    "Advanced Software Architecture and Analysis Technique/Materials/Cervantes (2024a) - Designing Software Architectures A Practical Approach, 2nd Edition.pdf",
+    "Advanced Software Architecture and Analysis Technique/Materials",
+    "README.md",
+    "Advanced Software Engineering Methodology/Lecture 2 - Startup Strategies.md",
+    "Advanced Software Engineering Methodology/Lecture 1 - Introduction.md",
+    "Advanced Software Engineering Methodology/Materials",
     "Advanced Software Engineering Methodology",
     "Big Data and Data Science Technologies/Excercises",
     "Big Data and Data Science Technologies/Materials/Lecture 1 - Introduction.pdf",
     "Big Data and Data Science Technologies/Materials",
     "Old Books (Bachelor)",
-    "Books/Spark-The Definitive Guide.pdf",
-    "README.md",
-    "Books/Software_Architecture_in_Practice.pdf",
-    "Books/Kafka The Definitive Guide Real-Time Data and Stream Processing at Scale, Second Edition by Gwen Shapira, Todd Palino, Rajini Sivaram, Krit Petty (z-lib.org).pdf",
-    "Books/Hadoop_ The Definitive Guide - Tom White.pdf",
     "Advanced Software Architecture and Analysis Technique/Excercises/Excercise 1 & 2.md",
     "Scientific Methods/Lecture 1 - Introduction.md"
   ]
